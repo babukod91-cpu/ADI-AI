@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ADI AI</string>
+    <string name="accessibility_service_description">Enables ADI AI to navigate your phone, perform back/home actions, and control apps via voice commands. It reads the screen only when you ask ADI about it.</string>
+</resources>

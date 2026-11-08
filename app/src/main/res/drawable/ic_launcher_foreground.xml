@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:gravity="center"
+        android:height="66.0dip"
+        android:width="66.0dip"
+        android:drawable="@drawable/adi_ai_icon_1794061580728" />
+</layer-list>

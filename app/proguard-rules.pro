@@ -1,0 +1,3 @@
+-keep class com.example.data.llama.LlamaCppBackendImpl { *; }
+-keep class android.llama.cpp.** { *; }
+-keepclassmembers class * { native <methods>; }
